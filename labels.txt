@@ -1,3 +1,4 @@
-0 Trash
-1 Recycling
+0 Paper
+1 Plastic
 2 Compost
+3 Trash
