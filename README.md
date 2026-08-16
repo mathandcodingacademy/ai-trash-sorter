@@ -1,6 +1,6 @@
 # EcoScan AI ♻️
 
-> An edge-AI camera application built with Python and TensorFlow that identifies waste types in real time using computer vision. Designed as an introductory project for Grade 7 coding & artificial intelligence learning.
+> An edge-AI camera application built with Python and TensorFlow that identifies waste types in real time using computer vision. Designed as an introductory project as part of Python102 coding & artificial intelligence learning.
 
 ---
 
